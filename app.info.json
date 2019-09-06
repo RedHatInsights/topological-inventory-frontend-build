@@ -1,11 +1,11 @@
 {
   "app_name": "topological-inventory",
-  "src_hash": "e4c13b7d40ce0495a10b97db10aea6b57d28d5e1",
+  "src_hash": "6f00173ae44abfd755f5897dfc80426bfb46b77c",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "5",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/topological-inventory-frontend/builds/574891567"
+    "build_number": "9",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/topological-inventory-frontend/builds/581561750"
   }
 }
