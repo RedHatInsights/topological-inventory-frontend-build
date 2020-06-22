@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{69:function(n,e,r){"use strict";r.r(e);var t=r(0),a=r.n(t);e.default=function(){return a.a.createElement(t.Fragment,null,"There will be dragons")}}}]);
-//# sourceMappingURL=../sourcemaps/5.js.map
