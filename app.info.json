@@ -1,12 +1,12 @@
 {
   "app_name": "topological-inventory",
-  "src_hash": "8120eceb5d28fb08480a9f396430c05478454467",
+  "src_hash": "c7bee8d17d1d615a99971b39de9f88c358941e16",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.50.2","UNMET PEER DEPENDENCY @patternfly/react-icons@4.7.6"],
   "travis": {
     "event_type": "push",
-    "build_number": "141",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/topological-inventory-frontend/builds/227067754"
+    "build_number": "144",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/topological-inventory-frontend/builds/227072355"
   }
 }
